@@ -1,0 +1,29 @@
+{
+  "name": "thermalprintnumber",
+  "version": "0.1.0",
+  "description": "Sistema de impressão em impressora termica protocolo EPSON ESC/POS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tonmarcondes/thermalPrintNumber.git"
+  },
+  "keywords": [
+    "termica",
+    "impressora",
+    "chinesa",
+    "numero",
+    "sorteio"
+  ],
+  "author": "Wellyngton Marcondes",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tonmarcondes/thermalPrintNumber/issues"
+  },
+  "homepage": "https://github.com/tonmarcondes/thermalPrintNumber#readme",
+  "dependencies": {
+    "escpos": "^3.0.0-alpha.6"
+  }
+}
